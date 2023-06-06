@@ -1,57 +1,53 @@
 # Instructions to write a literature review
-vpn-emp.wichita.edu send to Hyacinthe
-How to record hours?
-
-The purpose of these instructions is to help you write a literature review. The main objective of a
-literature review is to identify knowledge gaps in the current literature that you can address. This
-allows to use the current knowledge in our research and avoid redoing existing work. 
-
-Literature reviews can be stand-alone documents or be part of a publication. When included in a publication, the
-literature review's main objective is to clearly explain the differences between the publication and
-previous works. This shows the readers (and reviewers) that the publication is presenting novel
-contributions. 
-
-
-Usually, we select a recent paper on the topic that we are interested and use it as the reference point
-for our literature review. We will use it to determine search keywords, determine how far into the past
-we need to look, and find research that has been done after the publication of the reference point paper. 
+The purpose of these instructions is to help you write a literature review for your research
+project. The main objective of a literature review is two-fold. First, it identifies knowledge
+gaps in the current literature that you can address. This allows you to use the current
+knowledge and avoid redoing existing work. Second, when included in a publication (as it is
+often the case), the literature review's main objective is to clearly explain the differences
+between the publication and previous works. This shows the readers (and reviewers) that the
+publication is presenting novel contributions. 
 
 One more thing before we start. These guidelines are not absolute, so you can adjust as you see
 fit. However, I recommend you follow them at first and then try to adjust if needed. 
 
-## Define the scope of your research topic
-The research topic will guide your search for related papers. Usually, the research topic in a
-paper is formed by three parts: a problem, a solution, and a methodology. For example,
+## Define the research topic
+The research topic will guide your search for related papers. Usually, the research topic
+is formed by three parts: a problem, a solution, and a methodology. For example,
 consider the research topic: "Preventing impersonation attacks in Low Earth Orbit Satellite networks
 using deep learning-based physical-layer authentication". In this case, the problem is
 "impersonation attacks in low earth orbit satellite networks" the solution is, "physical layer
 authentication", and the methodology is "deep learning".
 
-One easy way to choose your research topic is to simply take the research topic in your
-reference point paper. 
+You may already have a research topic that you can directly use. You may also use the research topic of
+an existing paper (or unpublished project) that you are interested in investigating further.
 
 ### Task
-Before going to the next step, make sure you write down the problem, the solution, and the
-methodology of your research topic. We will use it to determine the keywords in our search for
-related papers.
+Before going to the next step, write your research topic and identify the problem, the solution, and the
+methodology. We will use it to determine the keywords in our search for related papers.
 
 ## Search for papers
 To find papers, you will use an academic paper search engine. Semantic
-Scholar is a good option as it provides an TLDR for each paper, which is a one or two sentence
-summary of the papers. This is usually more useful than the abstract when first looking for
+Scholar is a good option as it provides a TLDR for each paper, which is a one or two sentence
+summary of the paper. This is usually more useful than the abstract when first looking for
 papers. It also provides an API, which can allow you to automate the literature review process. Google
 Scholar is a popular choice but does not provide a TLDR nor an API. 
 
 The search process usually involves three steps. 
 
-1. Collect the papers referenced by your reference point paper. 
-    - The easiest way to do this is to use the references feature of the search engine. Finding your
-      paper in the search engine and there should be a list of references already collected for you. 
+1. Collect the papers referenced by the paper from which you derived your research topic. 
+    - If your research topic comes from an existing paper, the authors have already done a lot of the
+      work for you! The easiest way to get a list of references in this papers is to the
+      references feature of the search engine. Simply find your paper in the search engine and there
+      should be a link to a list of references already collected for you. 
 2. Collect the papers that reference your reference point paper. 
-    - Again, the easiest way is to use the search engine. These papers can usually be found under "cited
-      by" or "citations". 
+    - If the paper that you use to define your research topic has been around for a year or more, there
+      may be other papers that cite it. Again, the easiest way is to use the search engine.
+      These papers can usually be found under "cited by" or "citations" buttons. 
 3. Search for additional papers using the words in your research topic. 
-    - Try different word combinations, use synonyms, etc.
+    - The references collected by the paper's authors may be incomplete. They may have had to remove a
+      few to meet page limits, other authors may have reached similar conclusions independently, or they
+      simply missed them. It is important that you run your own searches using different keyword
+      combinations.  
 
 There are several ways to keep track of the papers at this point. The easiest way is to keep different
 browser tabs. This is OK since we still do not know which papers we want to keep so no need to spend time
@@ -62,12 +58,12 @@ next step.
 Run the searches for the three steps above. 
 
 ## Classify the papers according to their relevance.
-Once you have found a list of potentially relevant papers, you need to (roughly) divide them into
-the categories below. Reading the title and abstract should be enough in most cases for you to classify a paper.
-Sometimes, you will need to dive into the introduction and/or conclusions sections. If you are
-reading beyond these sections to do the classification, take a step back and critically
-analyze what you have already read. In this step, we are doing a high-level reading of the papers.
-
+Once you have found a list of potentially relevant papers, you need to (roughly) divide them
+into the categories below. Reading the title and TLDR/abstract should be enough in most cases
+for you to classify a paper.  Sometimes, you will need to dive into the introduction and/or
+conclusions sections. If you are reading beyond these sections to do the classification in this
+step, take a step back and critically analyze what you have already read. In this step, we are
+doing a high-level reading of the papers.
 
 1. Papers that address the same problem using the same solution and (same type of) methodology as your
    research topic. 
@@ -104,10 +100,10 @@ analyze what you have already read. In this step, we are doing a high-level read
       needs to be revised with the shortcoming of the existing methodology as the problem to be solved. 
 
 6. Papers that are not related to your paper
-    - Ignore this papers. 
+    - Ignore these papers. 
 
 To keep track of the papers you can build lists within Semantic Scholar or Google Scholar. This will
-allow you to then export formatted references. It is never a good idea to format your the references
+allow you to then export formatted references. It is never a good idea to format or keep track of the references
 manually. 
 
 ### Task
@@ -115,14 +111,18 @@ manually.
    detect impersonation attacks in low earth orbit satellites without using physical layer authentication" 
 2. Create a list of papers for each category using the search engine. 
 3. Write a 1-2 sentence note that justifies why the paper is included in the list. The note should
-   include the paper's main contribution (what is new in this paper?) as well as the 
-   paper's problem, solution, and/or methodology.
+   include the paper's main contribution (what is new in this paper with respect to earlier
+   publications?) as well as the paper's problem, solution, and/or methodology.
 
 ### Note 
 1. The number of papers in each category will depend on how many papers you find. For category 1, you
    will want to include all papers. For category 2 and 3, also try to include all papers. If you find
    more than 5 for either one of the categories, discard papers that are older than 5 years. For
-   categories 4 and 5, limit each category to 2 papers. 
+   categories 4 and 5, limit each category to 2 papers.
+
+2. One good way to know that you have all relevant papers is if you are confident that someone else
+   (e.g., your research supervisor) cannot find additional relevant papers by running a quick keyword
+   search and looking at the first page or results.  
 
 ## Identify paper categories. 
 
@@ -150,13 +150,14 @@ groups, they can be further categorized according to their methodological approa
 can then be described in chronological order starting with the oldest one noting the improvements. 
 
 ### Tasks
-1. Group the papers into categories. One paper may appear in more than one category. Some paper may end
+1. Group the papers into categories. One paper may appear in more than one category. Some papers may end
    up in their own category. 
 2. Write 1-2 sentences describing each category.
 
 ## Write the literature review!
 By grouping the papers and having brief descriptions, you have already done all the hard work. The last
-step is to put it all together and edit your text into a narrative. 
+step is to put it all together. That is transform what you already have into a set of logically ordered
+paragraphs.  
 
 ### Task 
 The literature review should follow these guidelines.
