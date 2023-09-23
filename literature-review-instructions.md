@@ -36,18 +36,23 @@ The search process usually involves three steps.
 
 1. Collect the papers referenced by the paper from which you derived your research topic. 
     - If your research topic comes from an existing paper, the authors have already done a lot of the
-      work for you! The easiest way to get a list of references in this papers is to the
+      work for you! The easiest way to get a list of references in this papers is to use the
       references feature of the search engine. Simply find your paper in the search engine and there
       should be a link to a list of references already collected for you. 
 2. Collect the papers that reference your reference point paper. 
     - If the paper that you use to define your research topic has been around for a year or more, there
-      may be other papers that cite it. Again, the easiest way is to use the search engine.
+      may be other papers that cite it. Again, the easiest way to find them is to use the search engine.
       These papers can usually be found under "cited by" or "citations" buttons. 
 3. Search for additional papers using the words in your research topic. 
     - The references collected by the paper's authors may be incomplete. They may have had to remove a
       few to meet page limits, other authors may have reached similar conclusions independently, or they
       simply missed them. It is important that you run your own searches using different keyword
-      combinations.  
+      combinations.
+4. Visualize the references.
+    - Visualizing how papers reference each other can help you better understand the evolution of a topic.
+    - [Litmaps](https://www.litmaps.com/) provides a graph visualization of the refences and cited by paper for a
+      given publication.
+    - SemanticScholar also provides a graph functinality through its API. 
 
 There are several ways to keep track of the papers at this point. The easiest way is to keep different
 browser tabs. This is OK since we still do not know which papers we want to keep so no need to spend time
